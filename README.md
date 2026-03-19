@@ -1,3 +1,4 @@
+
 # Hi there, I'm Divya Sree Dommaraju! 👋
 
 ### 🎯 Data Analyst | Data Scientist | Python | SQL | Power BI | LLMs
@@ -29,12 +30,21 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00897B?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-7B1FA2?style=for-the-badge&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-E53935?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🧠 Gen AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
