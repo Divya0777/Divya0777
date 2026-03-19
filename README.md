@@ -1,4 +1,3 @@
-
 # Hi there, I'm Divya Sree Dommaraju! 👋
 
 ### 🎯 Data Analyst | Data Scientist | Python | SQL | Power BI | LLMs
@@ -33,9 +32,6 @@
 ![EDA](https://img.shields.io/badge/EDA-00897B?style=for-the-badge&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-7B1FA2?style=for-the-badge&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-E53935?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🧠 Gen AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
