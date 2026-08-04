@@ -1,16 +1,15 @@
 # Hi there, I'm Divya Sree Dommaraju! 👋
 
-### 🎯 Data Analyst | Data Scientist | Python | SQL | Power BI | LLMs
+### 🎯 Data Scientist | Python | SQL | ML | LLMs | Lang Chain
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🏢 Currently working as **Data Analyst** at **Lecabel Soft Tech Pvt Ltd** *(April 2025 – Present)*
+- 🏢 Worked as a **Junior Data Scientist** at **Lecabel Soft Tech Pvt Ltd** *(April 2025 – June)*
 - 🧪 Former **Data Science Intern** at **Rubixe Disruptive Technologies** *(6 Months)*
 - 🎓 **B.E in Computer Science & Engineering** — Panimalar Institute of Technology *(2020 – 2024)*
-- 💡 Passionate about turning raw data into meaningful business insights
-- 🤖 Experienced in building **RAG pipelines**, **ML models**, and **interactive dashboards**
+- 🤖 Experienced in building **RAG pipelines**, **ML models**, and **DL models**
 - 📍 India
 - 📫 Reach me at: [linkedin.com/in/divyadommaraju29](https://www.linkedin.com/in/divyadommaraju29)
 
@@ -18,11 +17,10 @@
 
 ## 🛠️ Skills & Technologies
 
-### 📊 Data Analytics
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📊 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🤖 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -46,19 +44,19 @@
 
 ## 💼 Work Experience
 
-### 🏢 Data Analyst — Lecabel Soft Tech Pvt Ltd
-📅 *April 2025 – Present*
-- Worked on end-to-end Data Analytics projects
-- Built interactive dashboards using **Power BI**
-- Performed data analysis using **Python, SQL and Excel**
-- Created data visualizations to support business decisions
+### 🏢 Junior Data Scientist — Lecabel Soft Tech Pvt Ltd
+📅 *April 2025 – June*
+- Built a binary classification model in Python to predict customer purchases within the next 30 days.
+- Engineered RFM (Recency, Frequency, Monetary) and Cart Abandonment Rate features using Pandas and NumPy.
+- Applied SMOTE and trained Logistic Regression, Random Forest, and XGBoost models.
+- Achieved an AUC-ROC score of 0.88 and used SHAP for model interpretability.
 
 ### 🔬 Data Science Intern — Rubixe Disruptive Technologies
 📅 *6 Months*
 - Built and evaluated **Machine Learning models**
 - Performed **EDA and Feature Engineering** on real datasets
 - Applied **Statistics** for data-driven insights
-- Worked with **Python, SQL, Power BI**
+- Worked with **Python, SQL**
 
 ---
 
